@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Biswas
+    given-names: Ritujoy
+    orcid: https://orcid.org/0000-0003-4108-1217
+title: "Optimal Microphone Position"
+version: 1.0.0
+date-released: 2022-03-26
+url: "https://github.com/Ritujoy/Optimal-Microphone-Position"
