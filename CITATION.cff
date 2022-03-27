@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Nathwani
-    given-names: Karan
-  - family-names: Dixit
-    given-names: Bhavya
-  - family-names: Kopparapu
-    given-name: Sunil-Kumar
+        - family-names: Nathwani et. al.
+                given-names: Karan
+#       - family-names: Dixit
+#               given-names: Bhavya
+#       - family-names: Kopparapu
+#               given-name: Sunil-Kumar
 title: "Computing Optimal Location of Microphone for Improved Speech Recognition"
 version: 1.0.0
 date-released: 2022-03-26
